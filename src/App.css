@@ -5,7 +5,7 @@
 
 :root{
   /* Color mode HSL(hue, saturation, lightness) */
-  --first-color: hsl(271, 76%, 53%);
+  --first-color: hsl(0, 92%, 47%);
   --title-color: hsl(0, 0%, 40%);
   --text-color: hsl(0, 0%, 50%);
   --body-color: hsl(0, 0%, 100%);
@@ -93,6 +93,7 @@
   .container {
     max-width: 1140px;
     margin-inline: auto;
+    padding-inline: 15px;
   }
 
   .grid {
