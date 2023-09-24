@@ -4,7 +4,7 @@ import { FaDownload } from 'react-icons/fa'
 import Stats from '../../components/stats'
 import Infos from '../../components/Infos'
 import Skills from '../../components/Skills'
-import CV from "../../assets/steve-Cv.pdf"
+import CV from "../../assets/sajib-Cv.pdf"
 import { resume } from '../../data' 
 import ResumeItem from '../../components/ResumeItem'
 

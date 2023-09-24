@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route  } from 'react-router-dom';
 import React from 'react'
 import './App.css'
 
+import Themes from './components/Themes';
 import Navbar from './components/Navbar';
 import Home from './pages/home/Home';
 import About from './pages/about/About';
@@ -13,7 +14,8 @@ function App() {
   return (
 
     <BrowserRouter>
-    <Navbar></Navbar>
+    <Navbar />
+    <Themes />
       <Routes>
         <Route index element = {<Home></Home>}></Route>
         <Route path='about' element={<About></About>}></Route>

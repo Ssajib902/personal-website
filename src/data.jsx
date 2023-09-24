@@ -9,7 +9,7 @@ import {
 } from 'react-icons/fa';
 import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 
-import Work1 from './assets/project-1.jpeg';
+import Work1 from './assets/project-1.jpg';
 import Work2 from './assets/project-2.jpg';
 import Work3 from './assets/project-3.jpeg';
 import Work4 from './assets/project-4.jpeg';
@@ -164,7 +164,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2020- PRESENT',
     title: 'Green University of Bangladesh </span>',
-    desc: '',
+    desc: 'Ongoing',
   },
 
   {

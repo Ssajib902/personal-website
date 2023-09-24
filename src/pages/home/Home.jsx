@@ -18,7 +18,7 @@ const Home = () => {
           </h1>
 
           <p className='home__description'>
-            I am a Graphics Designer & front-end Developer on crafting clean and user friendly experiences. I am passionate about building website on new ideas.
+            I am a Front-End Developer & Graphics Designer on crafting clean and user friendly experiences. Graphics Designs help me for doing better designs in the web page.Also, I am passionate about building website on new ideas.
           </p>
 
           <Link to='/about' className='button'>
